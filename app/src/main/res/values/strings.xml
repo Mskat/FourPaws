@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FourPaws</string>
+    <string name="four_paws">Four paws</string>
+    <string name="we_will_take_care_of_your_pets">We will take care of your pets!</string>
+    <string name="opening_hours">Opening hours</string>
+    <string name="days_of_the_week">Monday - Friday</string>
+    <string name="hours">8am - 16pm</string>
+    <string name="web_adress">www.4-paws.com</string>
+    <string name="email">4paws@gmail.com</string>
+    <string name="phone">566–668–352</string>
+</resources>
